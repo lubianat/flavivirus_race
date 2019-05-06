@@ -56,6 +56,5 @@ p <- ggplot(full_disease_table_transformed, aes(rank, group = disease,
   
   transition_states(year, transition_length = 4, state_length = 1) +
   ease_aes('cubic-in-out')
-p
 anim <- animate(p , end_pause = 1)
 anim_save(filename = 'basic_flavivirus_race.gif')
