@@ -56,3 +56,59 @@ Processing triggers for libc-bin (2.27-3ubuntu1) ...
 ]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ [K]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ git add [K[K[K[Kinit
 Initialized empty Git repository in /home/lubianat/Documents/Projects/side/racing bar chart/.git/
 ]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ git add .
+]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ git commit -m 'first commit'
+[master (root-commit) 4e000dd] first commit
+ 36 files changed, 1131 insertions(+)
+ create mode 100644 .Rproj.user/5568B3D5/console06/2E042ECD
+ create mode 100644 .Rproj.user/5568B3D5/console06/2E042ECD.env
+ create mode 100644 .Rproj.user/5568B3D5/console06/INDEX001
+ create mode 100644 .Rproj.user/5568B3D5/sources/prop/D3714DB9
+ create mode 100644 .Rproj.user/5568B3D5/sources/prop/INDEX
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/1EF1E858
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/1EF1E858-contents
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/37068D19
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/37068D19-contents
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/3C458F3F-contents
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/3CDD4D04-contents
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/3DDBD54B
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/3DDBD54B-contents
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/426AC904
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/426AC904-contents
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/5B7697BA-contents
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/5C1A6DD4
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/5C1A6DD4-contents
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/72041425
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/72041425-contents
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/BC637133
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/BC637133-contents
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/CB697AC5-contents
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/E5126A4C
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/E5126A4C-contents
+ create mode 100644 .Rproj.user/5568B3D5/sources/s-A655324A/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 basic_flavivirus_race.gif
+ create mode 100644 dengue.csv
+ create mode 100644 gganim.gif
+ create mode 100644 jev.csv
+ create mode 100644 racing bar chart.Rproj
+ create mode 100644 westnile.csv
+ create mode 100644 yfv.csv
+ create mode 100644 zika.csv
+]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ git remote add origin git@github.com::lu [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[Klub ianat/flavivirus_race.git
+]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ git push -u origin master
+Counting objects: 36, done.
+Delta compression using up to 8 threads.
+Compressing objects:   3% (1/33)   Compressing objects:   6% (2/33)   Compressing objects:   9% (3/33)   Compressing objects:  12% (4/33)   Compressing objects:  15% (5/33)   Compressing objects:  18% (6/33)   Compressing objects:  21% (7/33)   Compressing objects:  24% (8/33)   Compressing objects:  27% (9/33)   Compressing objects:  30% (10/33)   Compressing objects:  33% (11/33)   Compressing objects:  36% (12/33)   Compressing objects:  39% (13/33)   Compressing objects:  42% (14/33)   Compressing objects:  45% (15/33)   Compressing objects:  48% (16/33)   Compressing objects:  51% (17/33)   Compressing objects:  54% (18/33)   Compressing objects:  57% (19/33)   Compressing objects:  60% (20/33)   Compressing objects:  63% (21/33)   Compressing objects:  66% (22/33)   Compressing objects:  69% (23/33)   Compressing objects:  72% (24/33)   Compressing objects:  75% (25/33)   Compressing objects:  78% (26/33)   Compressing objects:  81% (27/33)   Compressing objects:  84% (28/33)   Compressing objects:  87% (29/33)   Compressing objects:  90% (30/33)   Compressing objects:  93% (31/33)   Compressing objects:  96% (32/33)   Compressing objects: 100% (33/33)   Compressing objects: 100% (33/33), done.
+Writing objects:   2% (1/36)   Writing objects:   5% (2/36)   Writing objects:   8% (3/36)   Writing objects:  11% (4/36)   Writing objects:  13% (5/36)   Writing objects:  16% (6/36)   Writing objects:  19% (7/36)   Writing objects:  22% (8/36)   Writing objects:  25% (9/36)   Writing objects:  27% (10/36)   Writing objects:  30% (11/36)   Writing objects:  33% (12/36)   Writing objects:  36% (13/36)   Writing objects:  41% (15/36)   Writing objects:  44% (16/36)   Writing objects:  47% (17/36)   Writing objects:  50% (18/36)   Writing objects:  52% (19/36)   Writing objects:  55% (20/36)   Writing objects:  58% (21/36)   Writing objects:  61% (22/36)   Writing objects:  63% (23/36)   Writing objects:  66% (24/36)   Writing objects:  69% (25/36)   Writing objects:  72% (26/36)   Writing objects:  75% (27/36)   Writing objects:  77% (28/36)   Writing objects:  80% (29/36)   Writing objects:  83% (30/36)   Writing objects:  86% (31/36), 1.30 MiB | 1.45 MiB/s   Writing objects:  88% (32/36), 1.30 MiB | 1.45 MiB/s   Writing objects:  91% (33/36), 1.30 MiB | 1.45 MiB/s   Writing objects:  94% (34/36), 1.30 MiB | 1.45 MiB/s   Writing objects:  97% (35/36), 1.30 MiB | 1.45 MiB/s   Writing objects: 100% (36/36), 1.30 MiB | 1.45 MiB/s   Writing objects: 100% (36/36), 1.33 MiB | 1.50 MiB/s, done.
+Total 36 (delta 7), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/7)   [Kremote: Resolving deltas: 100% (7/7)   [Kremote: Resolving deltas: 100% (7/7), done.[K
+To github.com:lubianat/flavivirus_race.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ ls
+ [0m[01;35mbasic_flavivirus_race.gif[0m   [01;35mgganim.gif[0m  'racing bar chart.Rproj'   yfv.csv
+ dengue.csv                  jev.csv      westnile.csv              zika.csv
+]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ lsgit push -u origin masterremote add origin git@github.com:lubiianat/flavivirus_race.git[A]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ [C[C[C[C[12Pcommit -m 'first commit'
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[K
