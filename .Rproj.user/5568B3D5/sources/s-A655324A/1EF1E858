@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557163881251.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1EF1E858",
+    "lastKnownWriteTime" : 7310302499971034229,
+    "last_content_update" : 1557163881251,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F706A67E",
+        "caption" : "full_disease_table_transformed",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=full_disease_table_transformed&cache_key=F706A67E",
+        "displayedObservations" : 243,
+        "environment" : "",
+        "object" : "full_disease_table_transformed",
+        "preview" : 0,
+        "totalObservations" : 243,
+        "variables" : 6
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

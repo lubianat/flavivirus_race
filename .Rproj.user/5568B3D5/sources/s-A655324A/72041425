@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557160663888.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "72041425",
+    "lastKnownWriteTime" : 3330468227962923339,
+    "last_content_update" : 1557160663888,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F50820B",
+        "caption" : "gap",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=gap&cache_key=F50820B",
+        "displayedObservations" : "573",
+        "environment" : "",
+        "object" : "gap",
+        "preview" : "0",
+        "totalObservations" : "573",
+        "variables" : "7"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

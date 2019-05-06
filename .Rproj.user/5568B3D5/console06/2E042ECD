@@ -1,0 +1,58 @@
+]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ [K]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ [K]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ sudo apt-get install cargo
+[sudo] password for lubianat: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+The following additional packages will be installed:
+  libgit2-26 libssh2-1 libstd-rust-1.24 libstd-rust-dev rust-gdb rustc
+Suggested packages:
+  cargo-doc gdb-doc rust-doc rust-src
+The following NEW packages will be installed:
+  cargo libgit2-26 libssh2-1 libstd-rust-1.24 libstd-rust-dev rust-gdb rustc
+0 upgraded, 7 newly installed, 0 to remove and 20 not upgraded.
+Need to get 72,2 MB of archives.
+After this operation, 211 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+0% [Working]            Get:1 http://sft.if.usp.br/ubuntu bionic/universe amd64 libssh2-1 amd64 1.8.0-1 [73,2 kB]
+0% [1 libssh2-1 4.092 B/73,2 kB 6%]                                   3% [Working]            Get:2 http://sft.if.usp.br/ubuntu bionic/universe amd64 libstd-rust-1.24 amd64 1.24.1+dfsg1+llvm-0ubuntu2 [41,5 MB]
+3% [2 libstd-rust-1.24 2.639 B/41,5 MB 0%]6% [2 libstd-rust-1.24 3.087 kB/41,5 MB 7%]10% [2 libstd-rust-1.24 6.034 kB/41,5 MB 15%]13% [2 libstd-rust-1.24 8.964 kB/41,5 MB 22%]                                             15% [2 libstd-rust-1.24 11,1 MB/41,5 MB 27%]18% [2 libstd-rust-1.24 13,7 MB/41,5 MB 33%]21% [2 libstd-rust-1.24 16,7 MB/41,5 MB 40%]25% [2 libstd-rust-1.24 19,5 MB/41,5 MB 47%]27% [2 libstd-rust-1.24 22,0 MB/41,5 MB 53%]30% [2 libstd-rust-1.24 24,0 MB/41,5 MB 58%]32% [2 libstd-rust-1.24 25,9 MB/41,5 MB 62%]34% [2 libstd-rust-1.24 28,1 MB/41,5 MB 68%]37% [2 libstd-rust-1.24 30,7 MB/41,5 MB 74%]                                                                                         4.975 kB/s 8s40% [2 libstd-rust-1.24 33,2 MB/41,5 MB 80%]                                                                                         4.975 kB/s 7s43% [2 libstd-rust-1.24 35,9 MB/41,5 MB 86%]                                                                                         4.975 kB/s 7s46% [2 libstd-rust-1.24 38,7 MB/41,5 MB 93%]                                                                                         4.975 kB/s 6s48% [2 libstd-rust-1.24 41,1 MB/41,5 MB 99%]                                                                                         4.975 kB/s 6s52% [Waiting for headers]                                                                                                            4.975 kB/s 6s                                                                                                                                                  Get:3 http://sft.if.usp.br/ubuntu bionic/universe amd64 libgit2-26 amd64 0.26.0+dfsg.1-1.1build1 [372 kB]
+52% [3 libgit2-26 18,8 kB/372 kB 5%]                                                                                                 4.975 kB/s 6s55% [Working]                                                                                                                        4.975 kB/s 6s                                                                                                                                                  Get:4 http://sft.if.usp.br/ubuntu bionic/universe amd64 libstd-rust-dev amd64 1.24.1+dfsg1+llvm-0ubuntu2 [26,8 MB]
+55% [4 libstd-rust-dev 40,0 kB/26,8 MB 0%]                                                                                           4.975 kB/s 6s59% [4 libstd-rust-dev 3.225 kB/26,8 MB 12%]                                                                                         4.975 kB/s 5s62% [4 libstd-rust-dev 6.206 kB/26,8 MB 23%]                                                                                         4.975 kB/s 4s65% [4 libstd-rust-dev 9.186 kB/26,8 MB 34%]                                                                                         4.975 kB/s 4s68% [4 libstd-rust-dev 12,1 MB/26,8 MB 45%]                                                                                          4.975 kB/s 3s72% [4 libstd-rust-dev 15,0 MB/26,8 MB 56%]                                                                                          4.975 kB/s 3s75% [4 libstd-rust-dev 17,7 MB/26,8 MB 66%]                                                                                          4.975 kB/s 2s78% [4 libstd-rust-dev 20,6 MB/26,8 MB 77%]                                                                                          4.975 kB/s 1s81% [4 libstd-rust-dev 23,4 MB/26,8 MB 87%]                                                                                          5.558 kB/s 1s84% [4 libstd-rust-dev 26,2 MB/26,8 MB 98%]                                                                                          5.558 kB/s 0s88% [Waiting for headers]                                                                                                            5.558 kB/s 0s                                                                                                                                                  Get:5 http://sft.if.usp.br/ubuntu bionic/universe amd64 rustc amd64 1.24.1+dfsg1+llvm-0ubuntu2 [1.535 kB]
+88% [5 rustc 16,4 kB/1.535 kB 1%]                                                                                                    5.558 kB/s 0s92% [Waiting for headers]                                                                                                            5.558 kB/s 0s                                                                                                                                                  Get:6 http://sft.if.usp.br/ubuntu bionic/universe amd64 cargo amd64 0.26.0-0ubuntu1 [1.906 kB]
+92% [6 cargo 3.259 B/1.906 kB 0%]                                                                                                    5.558 kB/s 0s97% [Waiting for headers]                                                                                                            5.558 kB/s 0s                                                                                                                                                  Get:7 http://sft.if.usp.br/ubuntu bionic/universe amd64 rust-gdb all 1.24.1+dfsg1+llvm-0ubuntu2 [23,0 kB]
+97% [7 rust-gdb 2.864 B/23,0 kB 12%]                                                                                                 5.558 kB/s 0s100% [Working]                                                                                                                       5.558 kB/s 0s                                                                                                                                                  Fetched 72,2 MB in 14s (5.304 kB/s)
+Selecting previously unselected package libssh2-1:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 221849 files and directories currently installed.)
+Preparing to unpack .../0-libssh2-1_1.8.0-1_amd64.deb ...
+Unpacking libssh2-1:amd64 (1.8.0-1) ...
+Selecting previously unselected package libstd-rust-1.24:amd64.
+Preparing to unpack .../1-libstd-rust-1.24_1.24.1+dfsg1+llvm-0ubuntu2_amd64.deb ...
+Unpacking libstd-rust-1.24:amd64 (1.24.1+dfsg1+llvm-0ubuntu2) ...
+Selecting previously unselected package libgit2-26:amd64.
+Preparing to unpack .../2-libgit2-26_0.26.0+dfsg.1-1.1build1_amd64.deb ...
+Unpacking libgit2-26:amd64 (0.26.0+dfsg.1-1.1build1) ...
+Selecting previously unselected package libstd-rust-dev:amd64.
+Preparing to unpack .../3-libstd-rust-dev_1.24.1+dfsg1+llvm-0ubuntu2_amd64.deb ...
+Unpacking libstd-rust-dev:amd64 (1.24.1+dfsg1+llvm-0ubuntu2) ...
+Selecting previously unselected package rustc.
+Preparing to unpack .../4-rustc_1.24.1+dfsg1+llvm-0ubuntu2_amd64.deb ...
+Unpacking rustc (1.24.1+dfsg1+llvm-0ubuntu2) ...
+Selecting previously unselected package cargo.
+Preparing to unpack .../5-cargo_0.26.0-0ubuntu1_amd64.deb ...
+Unpacking cargo (0.26.0-0ubuntu1) ...
+Selecting previously unselected package rust-gdb.
+Preparing to unpack .../6-rust-gdb_1.24.1+dfsg1+llvm-0ubuntu2_all.deb ...
+Unpacking rust-gdb (1.24.1+dfsg1+llvm-0ubuntu2) ...
+Setting up libstd-rust-1.24:amd64 (1.24.1+dfsg1+llvm-0ubuntu2) ...
+Setting up rust-gdb (1.24.1+dfsg1+llvm-0ubuntu2) ...
+Setting up libstd-rust-dev:amd64 (1.24.1+dfsg1+llvm-0ubuntu2) ...
+Setting up rustc (1.24.1+dfsg1+llvm-0ubuntu2) ...
+Setting up libssh2-1:amd64 (1.8.0-1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Processing triggers for man-db (2.8.3-2) ...
+Setting up libgit2-26:amd64 (0.26.0+dfsg.1-1.1build1) ...
+Setting up cargo (0.26.0-0ubuntu1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ [K]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ git add [K[K[K[Kinit
+Initialized empty Git repository in /home/lubianat/Documents/Projects/side/racing bar chart/.git/
+]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ git add .
