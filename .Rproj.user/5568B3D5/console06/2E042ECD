@@ -129,3 +129,17 @@ remote: Resolving deltas:   0% (0/4)   [Kremote: Resolving deltas:  25% (1/4) 
 To github.com:lubianat/flavivirus_race.git
    4e000dd..4be0641  master -> master
 ]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ git add .
+]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ git cpo[K[Kommit -m 'correcting saud[Kce'
+[master 05416a4] correcting sauce
+ 5 files changed, 24 insertions(+), 8 deletions(-)
+ rewrite basic_flavivirus_race.gif (92%)
+]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ git push
+Counting objects: 13, done.
+Delta compression using up to 8 threads.
+Compressing objects:   7% (1/13)   Compressing objects:  15% (2/13)   Compressing objects:  23% (3/13)   Compressing objects:  30% (4/13)   Compressing objects:  38% (5/13)   Compressing objects:  46% (6/13)   Compressing objects:  53% (7/13)   Compressing objects:  61% (8/13)   Compressing objects:  69% (9/13)   Compressing objects:  76% (10/13)   Compressing objects:  84% (11/13)   Compressing objects:  92% (12/13)   Compressing objects: 100% (13/13)   Compressing objects: 100% (13/13), done.
+Writing objects:   7% (1/13)   Writing objects:  15% (2/13)   Writing objects:  23% (3/13)   Writing objects:  30% (4/13)   Writing objects:  38% (5/13)   Writing objects:  46% (6/13)   Writing objects:  53% (7/13)   Writing objects:  61% (8/13)   Writing objects:  69% (9/13)   Writing objects:  76% (10/13)   Writing objects:  84% (11/13)   Writing objects:  92% (12/13)   Writing objects: 100% (13/13)   Writing objects: 100% (13/13), 304.50 KiB | 2.74 MiB/s, done.
+Total 13 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  20% (1/5)   [Kremote: Resolving deltas:  40% (2/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[K
+To github.com:lubianat/flavivirus_race.git
+   4be0641..05416a4  master -> master
+]0;lubianat@csbl-tiago:~/Documents/Projects/side/racing bar chart]7;file://csbl-tiago/home/lubianat/Documents/Projects/side/racing%20bar%20chart]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ [K]0;lubianat@csbl-tiago: ~/Documents/Projects/side/racing bar chart[01;32mlubianat@csbl-tiago[00m:[01;34m~/Documents/Projects/side/racing bar chart[00m$ 
